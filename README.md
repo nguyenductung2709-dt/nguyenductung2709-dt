@@ -14,7 +14,7 @@ I'm a freshman from Aalto University in Finland. I'm currently progressing in Fu
 
 - CI/CD Deployment: GitHub-Actions
 
-### My GitHub Stats
+### My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenductung2709-dt&?rank_icon=percentile) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenductung2709-dt)](https://github.com/nguyenductung2709-dt/github-readme-stats)
 
