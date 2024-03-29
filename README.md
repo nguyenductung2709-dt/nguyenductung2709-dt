@@ -4,15 +4,15 @@ I'm a freshman from Aalto University in Finland. I'm currently progressing in Fu
 
 ### Skills: 
 
-Frontend technologies: ReactJS, Redux, ReactQuery
+- Frontend technologies: ReactJS, Redux, ReactQuery
 
-Backend technologies: Node.js, Express.js, GraphQL
+- Backend technologies: Node.js, Express.js, GraphQL
 
-Database and supporting libraries: MongoDB and Mongoose, PostgresSQL and Sequelize
+- Database and supporting libraries: MongoDB and Mongoose, PostgresSQL and Sequelize
 
-Container: Docker
+- Container: Docker
 
-CI/CD Deployment: GitHub-Actions
+- CI/CD Deployment: GitHub-Actions
 
 ### My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenductung2709-dt&?rank_icon=percentile) 
