@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Tung
-- 👀 I’m interested in building software solutions
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me: https://www.linkedin.com/in/tung-nguyen-duc/ 
-- ⚡ Fun fact: I love sports in general and love working out
+### Hello there 👋
+
+I'm a freshman from Aalto University in Finland. I'm currently progressing in Full Stack Web Development.
+
+### Skills: 
+
+Frontend technologies: ReactJS, Redux, ReactQuery
+
+Backend technologies: Node.js, Express.js, GraphQL
+
+Database and supporting libraries: MongoDB and Mongoose, PostgresSQL and Sequelize
+
+Container: Docker
+
+CI/CD Deployment: GitHub-Actions
+
+### My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenductung2709-dt&?rank_icon=percentile) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenductung2709-dt)](https://github.com/nguyenductung2709-dt/github-readme-stats)
 
 <!---
 nguyenductung2709-dt/nguyenductung2709-dt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
