@@ -11,7 +11,7 @@ I'm a freshman from Aalto University in Finland. I'm currently progressing in Fu
 
 - Database and ORMs (ODMs): MongoDB and Mongoose, PostgreSQL and Sequelize
 
-- DevOps Tools: Ubuntu Server, Docker, GitHub-Actions, GitlabCI
+- DevOps Tools: Ubuntu Server, Docker, GitHub-Actions, Gitlab CI
 
 - Cloud Services: AWS S3, AWS CloudFront 
 
