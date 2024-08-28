@@ -5,9 +5,9 @@ I'm a freshman from Aalto University in Finland. I'm currently progressing in Fu
 ### Skills: 
 - Programming languages: JavaScript, TypeScript, Scala, C, Python
 
-- Frontend technologies: ReactJS, Redux, ReactQuery, TailwindCSS, Svelte, Astro
+- Frontend technologies: ReactJS, Svelte, Astro, Redux, ReactQuery, TailwindCSS
 
-- Backend technologies: Node.js, Express.js, Deno, Socket.io GraphQL
+- Backend technologies: Node.js, Express.js, Deno, Socket.io, GraphQL
 
 - Database and ORMs (ODMs): MongoDB and Mongoose, PostgreSQL and Sequelize
 
