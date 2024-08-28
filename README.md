@@ -9,7 +9,7 @@ I'm a freshman from Aalto University in Finland. I'm currently progressing in Fu
 
 - Backend technologies: Node.js, Express.js, Deno, Socket.io GraphQL
 
-- Database and supporting libraries: MongoDB and Mongoose, PostgreSQL and Sequelize
+- Database and ORMs (ODMs): MongoDB and Mongoose, PostgreSQL and Sequelize
 
 - DevOps Tools: Ubuntu Server, Docker, GitHub-Actions, GitlabCI
 
