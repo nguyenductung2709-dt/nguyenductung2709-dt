@@ -13,7 +13,7 @@ I'm a freshman from Aalto University in Finland. I'm currently progressing in Fu
 
 - DevOps Tools: Ubuntu Server, Docker, GitHub-Actions, Gitlab CI
 
-- Cloud Services: AWS S3, AWS CloudFront 
+- Cloud Services: AWS 
 
 ### My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenductung2709-dt&?rank_icon=percentile) 
