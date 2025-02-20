@@ -3,9 +3,9 @@
 I'm a freshman from Aalto University in Finland. I'm currently progressing in Full Stack Web Development.
 
 ### Skills: 
-- Programming languages: JavaScript, TypeScript, Scala, C, Python
+- Programming languages: JavaScript, TypeScript, Scala, Python
 
-- Frontend technologies: ReactJS, Svelte, Astro, Redux, ReactQuery, TailwindCSS
+- Frontend technologies: ReactJS, Svelte, Astro, Redux, TailwindCSS
 
 - Backend technologies: Node.js, Express.js, Deno, Socket.io, GraphQL
 
