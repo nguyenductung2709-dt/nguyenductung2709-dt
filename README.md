@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a freshman from Aalto University in Finland. I'm currently progressing in Full Stack Web Development.
+I'm a bachelor student from Aalto University in Finland. I'm currently progressing in Full Stack Web Development.
 
 ### Skills: 
 - Programming languages: JavaScript, TypeScript, Scala, Python
