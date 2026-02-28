@@ -11,13 +11,9 @@ I'm a bachelor student from Aalto University in Finland. I'm currently progressi
 
 - Database and ORMs (ODMs): MongoDB and Mongoose, PostgreSQL and Sequelize
 
-- DevOps Tools: Ubuntu Server, Docker, GitHub-Actions, Gitlab CI
+- DevOps Tools: Ubuntu Server, Docker, GitHub-Actions, Gitlab CI, Terraform, Kubernetes
 
-- Cloud Services: AWS 
-
-### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenductung2709-dt&?rank_icon=percentile) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenductung2709-dt)](https://github.com/nguyenductung2709-dt/github-readme-stats)
+- Cloud Services: AWS, GCP
 
 <!---
 nguyenductung2709-dt/nguyenductung2709-dt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
